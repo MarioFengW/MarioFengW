@@ -1,7 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=774FE8&width=435&lines=Hi%2C+my+name+is+Mario%2C+welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=774FE8&width=435&lines=Tecnologies+and+Tools%3A)](https://git.io/typing-svg)
+### Tecnologies and Tools: 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
