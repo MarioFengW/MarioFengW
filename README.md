@@ -25,9 +25,9 @@
     <a href="mailto:mario.fengw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
-  <!-- Sección agregada en la esquina inferior derecha -->
+    <!-- Profile Views en la esquina inferior derecha -->
   <div style="position: absolute; bottom: 10px; right: 10px; text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=MarioFengW&color=774FE8&style=for-the-badge" align="center" />
+    <img src="https://komarev.com/ghpvc/?username=emihdz1209&color=7afe15&style=for-the-badge" align="center" />
   </div>
 
 </div>
