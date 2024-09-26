@@ -2,9 +2,8 @@
 <div style="position: relative; width: 100%; height: 500px; border: 1px solid black; padding: 20px;">
   
   <!-- Texto animado de bienvenida -->
-  <div>
-    ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=774FE8&width=435&lines=Hi%2C+my+name+is+Mario.+;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
-  </div>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=774FE8&width=435&lines=Hi%2C+my+name+is+Mario.+;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
+
 
   <!-- Tecnologías y herramientas -->
   <h3>Tecnologies and Tools:</h3>
