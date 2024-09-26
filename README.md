@@ -3,7 +3,7 @@
   
   <!-- Texto animado de bienvenida -->
   <div>
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=774FE8&width=435&lines=Hi%2C+my+name+is+Mario.+;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
+    ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=774FE8&width=435&lines=Hi%2C+my+name+is+Mario.+;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
   </div>
 
   <!-- Tecnologías y herramientas -->
@@ -28,8 +28,6 @@
 
   <!-- Sección agregada en la esquina inferior derecha -->
   <div style="position: absolute; bottom: 10px; right: 10px; text-align: center;">
-    <img width="5%" src="https://github.com/emihdz1209/emihdz1209/blob/main/Images/Spyder.png?raw=true" align="center">
-    <br/><br/>
     <img src="https://komarev.com/ghpvc/?username=MarioFengW&color=774FE8&style=for-the-badge" align="center" />
   </div>
 
