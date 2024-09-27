@@ -29,8 +29,6 @@
     <img src="https://komarev.com/ghpvc/?username=MarioFengW&color=774FE8&&style=for-the-badge" align="center" />
   </div>
 
-<picture>
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-</picture>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
