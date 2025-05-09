@@ -1,6 +1,4 @@
-<!-- Contenedor principal -->
-<div align="center">
-  
+
 <!-- Texto animado de bienvenida -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c792ea&width=435&lines=Hi%2C+my+name+is+Mario.+;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
 
