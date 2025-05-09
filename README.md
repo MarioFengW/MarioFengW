@@ -1,13 +1,12 @@
 <!-- Contenedor principal -->
-<div style="position: relative; width: 100%; height: 500px; border: 1px solid black; padding: 20px;">
+<div align="center">
   
-  <!-- Texto animado de bienvenida -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=774FE8&width=435&lines=Hi%2C+my+name+is+Mario.+;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
-
+<!-- Texto animado de bienvenida -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c792ea&width=435&lines=Hi%2C+my+name+is+Mario.+;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
 
 <!-- Programming Languages -->
-<h4>Programming Languages:</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<h4 align="center">Programming Languages:</h4>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img alt="Python" height="35" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="C++" height="35" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img alt="RStudio" height="35" src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
@@ -19,8 +18,8 @@
 </div>
 
 <!-- Frameworks and Libraries -->
-<h4>Frameworks / Libraries:</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<h4 align="center">Frameworks / Libraries:</h4>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img alt="React" height="35" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img alt="Bootstrap" height="35" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="Node.js" height="35" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
@@ -33,8 +32,8 @@
 </div>
 
 <!-- Tools and Technologies -->
-<h4>Tools / Platforms:</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<h4 align="center">Tools / Platforms:</h4>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img alt="GitHub" height="35" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img alt="VS Code" height="35" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img alt="MySQL" height="35" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -44,8 +43,8 @@
 </div>
 
   <!-- Contacto -->
-  <h3>Contact</h3>
-  <div> 
+  <h4 align="center">Contact</h4>
+  <div align="center"> 
     <a href="https://www.linkedin.com/in/mariofengwu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="mailto:mario.fengw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
@@ -86,9 +85,9 @@
   -->
 </p>
 
-<h4 style="text-align: center;">📌 Pinned Repositories</h4>
+<h4 align="center">📌 Pinned Repositories</h4>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr style="border: none; background-color: transparent;">
     <td align="center" style="border: none; background-color: transparent;">
       <a href="https://github.com/MarioFengW/Nucleic-Acid-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioFengW&repo=Nucleic-Acid-Analysis&theme=material-palenight" alt="Nucleic-Acid-Analysis"></a>
