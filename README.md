@@ -76,7 +76,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MarioFengW&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=github&theme=dracula" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MarioFengW&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=github&theme=material-palenight" alt="GitHub Stats" />
   </a>
 
   <!-- WakaTime Stats Card in Compact Layout -->
