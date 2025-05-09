@@ -75,7 +75,7 @@
 <h4>Top Languages:</h4>
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?MarioFengW&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioFengW&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
   </a>
 </div>
 
