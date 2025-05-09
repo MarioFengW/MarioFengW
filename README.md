@@ -10,25 +10,41 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img alt="C++" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img alt="SQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img alt="RStudio" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg">
   <img alt="JavaScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img alt="HTML5" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img alt="CSS3" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img alt="MATLAB" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
+  <img alt="Bash" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
 </div>
 
 <!-- Frameworks and Libraries -->
 <h4>Frameworks / Libraries:</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img alt="React" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-    <img alt="Node.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
-    <img alt="Express" height="35" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="React" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img alt="Bootstrap" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+  <img alt="Flask" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">
+  <img alt="Node.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img alt="NumPy" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+  <img alt="Pandas" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+  <img alt="SFML" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sfml/sfml-original.svg">
+  <img alt="MariaDB" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg">
+  <img alt="DBeaver" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg">
+  <img alt="OpenEO" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openeo/openeo-original.svg">
 </div>
 
 <!-- Tools and Technologies -->
 <h4>Tools / Platforms:</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="GitHub" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
   <img alt="VS Code" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img alt="MySQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img alt="RStudio" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg">
+  <img alt="Make.com" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/make/make-original.svg">
+  <img alt="Mailchimp" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mailchimp/mailchimp-original.svg">
+  <img alt="Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img alt="Anaconda" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg">
+  <img alt="Google Colab" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg">
 </div>
 
 
