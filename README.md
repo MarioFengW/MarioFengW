@@ -50,9 +50,9 @@
     <a href="mailto:mario.fengw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
-<div style="display: flex; justify-content: center; align-items: center; position: absolute; bottom: 10px; right: 10px; width: 100%;">
-  <img src="https://komarev.com/ghpvc/?username=MarioFengW&color=774FE8&&style=for-the-badge" align="center" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarioFengW&color=c792ea&style=for-the-badge" alt="Profile views" />
+</p>
 
 
 <picture>
@@ -72,8 +72,7 @@
 </div>
 
 <!-- Add GitHub Stats and WakaTime Stats Side by Side -->
-<h4>GitHub Stats & WakaTime Stats:</h4>
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+<p align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=MarioFengW&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=github&theme=material-palenight" alt="GitHub Stats" />
@@ -85,47 +84,31 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioFengW" alt="WakaTime Stats" />
   </a>
   -->
+</p>
 
-</div>
+<h4 style="text-align: center;">📌 Pinned Repositories</h4>
 
-<!-- Pinned Repositories -->
-<h4>Pinned Repositories:</h4>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; padding: 15px;">
-  
-  <div style="margin: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;">
-    <a href="https://github.com/MarioFengW/Nucleic-Acid-Analysis">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioFengW&repo=Nucleic-Acid-Analysis&theme=material-palenight" alt="Nucleic-Acid-Analysis Repo" />
-    </a>
-  </div>
-
-  <div style="margin: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;">
-    <a href="https://github.com/varfmx21/agriculture-GeoAnalysis">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=varfmx21&repo=agriculture-GeoAnalysis&theme=material-palenight" alt="agriculture-GeoAnalysis Repo" />
-    </a>
-  </div>
-
-  <div style="margin: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;">
-    <a href="https://github.com/varfmx21/habit-flow-app">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=varfmx21&repo=habit-flow-app&theme=material-palenight" alt="habit-flow-app Repo" />
-    </a>
-  </div>
-
-  <div style="margin: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;">
-    <a href="https://github.com/MarioFengW/SFML-Project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioFengW&repo=SFML-Project&theme=material-palenight" alt="SFML-Project Repo" />
-    </a>
-  </div>
-
-  <div style="margin: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;">
-    <a href="https://github.com/JRV-XVI/connect-the-schools">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JRV-XVI&repo=connect-the-schools&theme=material-palenight" alt="connect-the-schools Repo" />
-    </a>
-  </div>
-
-  <div style="margin: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;">
-    <a href="https://github.com/JRV-XVI/lexical-highlighter">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JRV-XVI&repo=lexical-highlighter&theme=material-palenight" alt="lexical-highlighter Repo" />
-    </a>
-  </div>
-
-</div>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr style="border: none; background-color: transparent;">
+    <td align="center" style="border: none; background-color: transparent;">
+      <a href="https://github.com/MarioFengW/Nucleic-Acid-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioFengW&repo=Nucleic-Acid-Analysis&theme=material-palenight" alt="Nucleic-Acid-Analysis"></a>
+    </td>
+    <td align="center" style="border: none; background-color: transparent;">
+      <a href="https://github.com/varfmx21/agriculture-GeoAnalysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=varfmx21&repo=agriculture-GeoAnalysis&theme=material-palenight" alt="agriculture-GeoAnalysis"></a>
+    </td>
+    <td align="center" style="border: none; background-color: transparent;">
+      <a href="https://github.com/varfmx21/habit-flow-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=varfmx21&repo=habit-flow-app&theme=material-palenight" alt="habit-flow-app"></a>
+    </td>
+  </tr>
+  <tr style="border: none; background-color: transparent;">
+    <td align="center" style="border: none; background-color: transparent;">
+      <a href="https://github.com/MarioFengW/SFML-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioFengW&repo=SFML-Project&theme=material-palenight" alt="SFML-Project"></a>
+    </td>
+    <td align="center" style="border: none; background-color: transparent;">
+      <a href="https://github.com/JRV-XVI/connect-the-schools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JRV-XVI&repo=connect-the-schools&theme=material-palenight" alt="connect-the-schools"></a>
+    </td>
+    <td align="center" style="border: none; background-color: transparent;">
+      <a href="https://github.com/JRV-XVI/lexical-highlighter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JRV-XVI&repo=lexical-highlighter&theme=material-palenight" alt="lexical-highlighter"></a>
+    </td>
+  </tr>
+</table>
