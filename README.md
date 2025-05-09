@@ -71,11 +71,17 @@
 </picture>
 </div>
 
-<!-- Add Top Languages -->
-<h4>Top Languages:</h4>
-<div style="display: flex; justify-content: center; align-items: center;">
+<!-- Add GitHub Stats and WakaTime Stats Side by Side -->
+<h4>GitHub Stats & WakaTime Stats:</h4>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+  <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioFengW&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MarioFengW&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=github&theme=dracula" alt="GitHub Stats" />
+  </a>
+
+  <!-- WakaTime Stats Card in Compact Layout -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioFengW&layout=compact" alt="WakaTime Stats" />
   </a>
 </div>
 
