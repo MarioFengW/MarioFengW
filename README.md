@@ -35,7 +35,7 @@
 <!-- Tools and Technologies -->
 <h4>Tools / Platforms:</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img alt="GitHub" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
+  <img alt="GitHub" height="35" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg](https://img.icons8.com/?size=100&id=12599&format=png&color=FFFFFF)">
   <img alt="VS Code" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img alt="MySQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img alt="Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
