@@ -50,9 +50,10 @@
     <a href="mailto:mario.fengw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
-  <div style="position: absolute; bottom: 10px; right: 10px; text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=MarioFengW&color=774FE8&&style=for-the-badge" align="center" />
-  </div>
+<div style="display: flex; justify-content: center; align-items: center; position: absolute; bottom: 10px; right: 10px; width: 100%;">
+  <img src="https://komarev.com/ghpvc/?username=MarioFengW&color=774FE8&&style=for-the-badge" align="center" />
+</div>
+
 
 <picture>
   <source
