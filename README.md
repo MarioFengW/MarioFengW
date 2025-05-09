@@ -9,25 +9,35 @@
 
 <h3>Technologies and Tools</h3>
 
-<!-- Programming Languages -->
-<h4>Programming Languages:</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img alt="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img alt="C++" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img alt="JavaScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img alt="HTML5" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+<!-- Row: Programming Languages | Frameworks -->
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+
+  <!-- Programming Languages -->
+  <div style="flex: 1; min-width: 200px;">
+    <h4>Programming Languages:</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img alt="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+      <img alt="C++" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+      <img alt="JavaScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+      <img alt="HTML5" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+      <img alt="CSS3" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+    </div>
+  </div>
+
+  <!-- Frameworks / Libraries -->
+  <div style="flex: 1; min-width: 200px;">
+    <h4>Frameworks / Libraries:</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img alt="React" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+      <img alt="Node.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+      <img alt="Express" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
+    </div>
+  </div>
+
 </div>
 
-<!-- Frameworks and Libraries -->
-<h4>Frameworks / Libraries:</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img alt="React" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img alt="Node.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img alt="Express" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
-</div>
-
-<!-- Tools and Technologies -->
+<!-- Tools / Platforms (newline) -->
+<br>
 <h4>Tools / Platforms:</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="VS Code" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
