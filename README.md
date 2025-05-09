@@ -88,4 +88,35 @@
 
 </div>
 
+<!-- Pinned Repositories -->
+<h4>Pinned Repositories:</h4>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
+  <!-- Primera fila -->
+  <a href="https://github.com/MarioFengW/Nucleic-Acid-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioFengW&repo=Nucleic-Acid-Analysis&theme=material-palenight" alt="Nucleic-Acid-Analysis Repo" />
+  </a>
+
+  <a href="https://github.com/varfmx21/agriculture-GeoAnalysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=varfmx21&repo=agriculture-GeoAnalysis&theme=material-palenight" alt="agriculture-GeoAnalysis Repo" />
+  </a>
+
+  <!-- Segunda fila -->
+  <a href="https://github.com/varfmx21/habit-flow-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=varfmx21&repo=habit-flow-app&theme=material-palenight" alt="habit-flow-app Repo" />
+  </a>
+
+  <a href="https://github.com/MarioFengW/SFML-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioFengW&repo=SFML-Project&theme=material-palenight" alt="SFML-Project Repo" />
+  </a>
+
+  <!-- Tercera fila -->
+  <a href="https://github.com/JRV-XVI/connect-the-schools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JRV-XVI&repo=connect-the-schools&theme=material-palenight" alt="connect-the-schools Repo" />
+  </a>
+
+  <a href="https://github.com/JRV-XVI/lexical-highlighter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JRV-XVI&repo=lexical-highlighter&theme=material-palenight" alt="lexical-highlighter Repo" />
+  </a>
+
+</div>
