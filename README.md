@@ -68,20 +68,48 @@
 </picture>
 </div>
 
-<!-- Add GitHub Stats and WakaTime Stats Side by Side -->
+<!-- GitHub Stats and Contribution Stats Side by Side -->
 <p align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MarioFengW&show_icons=true&show=reviews,prs_merged_percentage&rank_icon=github&theme=material-palenight" alt="GitHub Stats" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=MarioFengW&show_icons=true&show=prs_merged_percentage&rank_icon=github&theme=material-palenight" 
+      alt="GitHub Stats" 
+      width="400"
+    />
   </a>
-
-  <!-- WakaTime Stats Card in Compact Layout -->
-  <!--
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioFengW" alt="WakaTime Stats" />
-  </a>
-  -->
 </p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=MarioFengW&theme=material-palenight&hide_border=false" 
+    alt="GitHub Streak Stats" 
+    width="400"
+  />
+</p>
+
+<p align="center">
+  <!-- GitHub Contributor Stats -->
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=MarioFengW&limit=5&theme=material-palenight&combine_all_yearly_contributions=true" 
+    alt="GitHub Contributor Stats" 
+    width="400"
+  />
+</p>
+
+<!-- Optional: WakaTime Stats (currently commented out) -->
+<!--
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioFengW" 
+      alt="WakaTime Stats" 
+      width="400"
+    />
+  </a>
+</p>
+-->
 
 <h4 align="center">📌 Pinned Repositories</h4>
 
