@@ -7,38 +7,45 @@
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img alt="Python" height="35" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="C++" height="35" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img alt="RStudio" height="35" src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
+  <img alt="TypeScript" height="35" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="JavaScript" height="35" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img alt="HTML5" height="35" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS3" height="35" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="MATLAB" height="35" src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white">
+  <img alt="MATLAB" height="35" src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
   <img alt="Bash" height="35" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img alt="SQL" height="35" src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=database&logoColor=white">
 </div>
 
 <!-- Frameworks and Libraries -->
 <h4 align="center">Frameworks / Libraries:</h4>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img alt="React" height="35" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img alt="Bootstrap" height="35" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="React Native" height="35" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="Vue.js" height="35" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img alt="Node.js" height="35" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Express" height="35" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img alt="Flask" height="35" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img alt="NumPy" height="35" src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img alt="Pandas" height="35" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img alt="MariaDB" height="35" src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img alt="DBeaver" height="35" src="https://img.shields.io/badge/-DBeaver-1E5B74?style=for-the-badge&logo=dbeaver&logoColor=white">
+  <img alt="Bootstrap" height="35" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-<!-- Tools and Technologies -->
+<!-- Tools and Platforms -->
 <h4 align="center">Tools / Platforms:</h4>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img alt="Git" height="35" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitHub" height="35" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img alt="VS Code" height="35" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img alt="MySQL" height="35" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Git" height="35" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Google Colab" height="35" src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black">
   <img alt="Anaconda" height="35" src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
   <img alt="PostgreSQL" height="35" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="MariaDB" height="35" src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img alt="Supabase" height="35" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img alt="DBeaver" height="35" src="https://img.shields.io/badge/-DBeaver-1E5B74?style=for-the-badge&logo=dbeaver&logoColor=white">
+  <img alt="Expo" height="35" src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
+  <img alt="Make.com" height="35" src="https://img.shields.io/badge/-Make.com-6D1EFD?style=for-the-badge&logo=make&logoColor=white">
 </div>
+
 
   <!-- Contacto -->
   <h4 align="center">Contact</h4>
