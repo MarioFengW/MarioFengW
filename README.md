@@ -68,9 +68,9 @@
 <!-- GitHub Stats and Contribution Stats Side by Side -->
 <p align="center">
   <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=MarioFengW&show_icons=true&show=prs_merged_percentage&rank_icon=github&theme=material-palenight" 
+      src="https://github-stats-extended.vercel.app/api?username=MarioFengW&show_icons=true&show=prs_merged_percentage&rank_icon=github&theme=material-palenight" 
       alt="GitHub Stats" 
       width="400"
     />
@@ -80,57 +80,8 @@
 <p align="center">
   <!-- GitHub Streak Stats -->
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=MarioFengW&theme=material-palenight&hide_border=false" 
+    src="https://streak-stats.demolab.com?user=MarioFengW&theme=material-palenight&hide_border=false" 
     alt="GitHub Streak Stats" 
     width="400"
   />
 </p>
-
-<p align="center">
-  <!-- GitHub Contributor Stats -->
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=MarioFengW&limit=5&theme=material-palenight&combine_all_yearly_contributions=true" 
-    alt="GitHub Contributor Stats" 
-    width="400"
-  />
-</p>
-
-<!-- Optional: WakaTime Stats (currently commented out) -->
-<!--
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=MarioFengW" 
-      alt="WakaTime Stats" 
-      width="400"
-    />
-  </a>
-</p>
--->
-
-<h4 align="center">📌 Pinned Repositories</h4>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr style="border: none; background-color: transparent;">
-    <td align="center" style="border: none; background-color: transparent;">
-      <a href="https://github.com/MarioFengW/Nucleic-Acid-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioFengW&repo=Nucleic-Acid-Analysis&theme=material-palenight" alt="Nucleic-Acid-Analysis"></a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <a href="https://github.com/varfmx21/agriculture-GeoAnalysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=varfmx21&repo=agriculture-GeoAnalysis&theme=material-palenight" alt="agriculture-GeoAnalysis"></a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <a href="https://github.com/varfmx21/habit-flow-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=varfmx21&repo=habit-flow-app&theme=material-palenight" alt="habit-flow-app"></a>
-    </td>
-  </tr>
-  <tr style="border: none; background-color: transparent;">
-    <td align="center" style="border: none; background-color: transparent;">
-      <a href="https://github.com/MarioFengW/SFML-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioFengW&repo=SFML-Project&theme=material-palenight" alt="SFML-Project"></a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <a href="https://github.com/JRV-XVI/connect-the-schools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JRV-XVI&repo=connect-the-schools&theme=material-palenight" alt="connect-the-schools"></a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent;">
-      <a href="https://github.com/JRV-XVI/lexical-highlighter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JRV-XVI&repo=lexical-highlighter&theme=material-palenight" alt="lexical-highlighter"></a>
-    </td>
-  </tr>
-</table>
